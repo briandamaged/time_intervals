@@ -1,5 +1,5 @@
 
-module Untimely
+module TimeIntervals
 
   # When you subtract one Time from another, you
   # interval betw/ the two timestamps.
